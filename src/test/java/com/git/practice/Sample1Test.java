@@ -6,13 +6,9 @@ public class Sample1Test {
 	@Test
 	public void create1Test()
 	{
+		//hiii
 
-                 // updated by engg12
-
-
-              // created by eng2
-
-                 // updated by engg1
+		System.out.println("hii1");
 
 		System.out.println("hiiiif");
 	}
